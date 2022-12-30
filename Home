@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Andrew's Programming Portfolio</title>
+        <link rel="stylesheet" href="stylesheet.jpg">
+    </head>
+    <body>
+            <style>
+
+                body {background-image: url('take6.jpg');}
+                h1 {color:white}
+                p {color: white}
+                body {background-color: black;}
+            
+            </style>
+<center>
+         <table width = "800px">
+                 <tr>
+
+             </tr> 
+         </table> <br>
+
+      
+   <h1> Welcome to Andrew's programming portfolio</h1>
+    
+   <p> On this wedsite I (Andrew Larivee) will be adding all of my work from my CSC 106 class. <br>
+    you should expect the page to get better as my skills do at the same time, I also believe <br>
+    you will be able to see all different code languages and the use of them through the page.</p>
+    
+        </center>
+    </body>
+</html>
+ 
